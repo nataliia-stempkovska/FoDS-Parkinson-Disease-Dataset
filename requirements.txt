@@ -1,10 +1,19 @@
-numpy>=1.24
-pandas>=2.0
+# python version
+Python 3.13.0
 
-matplotlib>=3.8
-seaborn>=0.13
+# Core data handling
+numpy==2.4.2
+pandas==3.0.1
 
-scikit-learn>=1.4
-scipy>=1.11
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
 
-shap>=0.45
+# Statistical analysis
+scipy==1.17.1
+statsmodels==0.14.6
+
+# Machine learning
+scikit-learn==1.8.0
+imbalanced-learn==0.14.1
+shap==0.51.0
