@@ -316,9 +316,7 @@ Methods included:
 Clustering performance was evaluated using:
 
 - Silhouette Coefficient
-- Davies-Bouldin Index
 - Adjusted Rand Index (ARI)
-- Normalized Mutual Information (NMI)
 - Purity
 
 The clustering analyses indicated substantial overlap between PD and healthy recordings and showed that disease status does not naturally separate into clearly distinct clusters in the original acoustic feature space.
